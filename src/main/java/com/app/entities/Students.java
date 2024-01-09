@@ -38,4 +38,5 @@ public class Students {
 	@JoinColumn(name = "counsellorId",referencedColumnName = "id")
 	private Counsellors counsellorId;
 
+	
 }
